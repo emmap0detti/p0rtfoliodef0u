@@ -1,5 +1,5 @@
 body {
-    background-image: url(att);
+    background-image: url(https://i.imgur.com/fKsREa3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -17,7 +17,6 @@ h1 {
     height: 50px;
     position: fixed;
     top: 0px;
-    margin-top: 210px;
 }
 
 ul {
