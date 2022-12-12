@@ -50,6 +50,6 @@ li a.active {
 }
 
 li a:hover:not(.active) {
-    background-color: #88a0f6;
-    color: white;
+    background-color: transparent;
+    color: black;
 }
